@@ -5,7 +5,7 @@ module.exports = {
     name: "tikinfo",
     aliases: ["ttinfo", "tikuser"],
     version: "1.0.0",
-    author: "xalman",
+    author: "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁",
     countDown: 5,
     role: 0,
     shortDescription: "Get TikTok user profile information",
