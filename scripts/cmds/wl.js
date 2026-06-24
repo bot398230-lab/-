@@ -8,7 +8,7 @@ module.exports = {
 
 		version: "1.0",
 
-		author: "Jisan--",
+		author: "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁-",
 
 		countDown: 5,
 
