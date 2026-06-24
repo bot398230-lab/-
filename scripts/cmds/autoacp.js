@@ -16,7 +16,7 @@ module.exports = {
     name: "autoacp",
     aliases: ["autoaccecpt", "aacp"],
     version: "1.0",
-    author: "xalman",
+    author: "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁",
     countDown: 5,
     role: 2,
     shortDescription: "Auto accept friend request",
