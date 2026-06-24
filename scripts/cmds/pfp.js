@@ -2,7 +2,7 @@ const axios = require("axios");
 const fs = require("fs");
 const path = require("path");
 
-const ACCESS_TOKEN = "350685531728|62f8ce9f74b12f84c123cc23437a4a32";
+const ACCESS_TOKEN = "61588374999435|62f8ce9f74b12f84c123cc23437a4a32";
 
 function extractUID(link) {
   try {
@@ -83,7 +83,7 @@ module.exports = {
     name: "pp",
     aliases: ["pfp"],
     version: "3.0",
-    author: "xalman",
+    author: "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁",
     role: 0,
     shortDescription: { en: "Show profile picture by UID, mention or link" },
     category: "image"
