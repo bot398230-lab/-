@@ -5,7 +5,7 @@ module.exports = {
     name: "anisearch",
     aliases: ["amv", "animesearch"],
     version: "1.0",
-    author: "xalman",
+    author: "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁",
     countDown: 3,
     role: 0,
     description: "Search and get Anime TikTok videos",
