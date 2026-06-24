@@ -2,7 +2,7 @@ module.exports = {
   config: {
     name: "join",
     version: "3.5",
-    author: "xalman",
+    author: "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁",
     countDown: 10,
     role: 1,
     shortDescription: { en: "Access groups the bot is in." },
