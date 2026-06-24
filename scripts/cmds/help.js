@@ -3,13 +3,13 @@ const axios = require("axios");
 const path = require("path");
 const { getPrefix } = global.utils;
 const { commands, aliases } = global.GoatBot;
-const doNotDelete = "〲 𝗠𝗔𝗬𝗕𝗘 𝗡𝗫 〲";
+const doNotDelete = "〲 𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁 〲";
 
 module.exports = {
  config: {
  name: "help",
  version: "2.0",
- author: "xalman",
+ author: "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁",
  countDown: 3,
  role: 0,
  shortDescription: { en: "Neural Command Interface" },
@@ -22,7 +22,7 @@ module.exports = {
  langs: {
  en: {
    mainMenu: "╔════════════════════════════════════════════════════════════╗\n" +
-             "║                    ✦ 〲 𝗠𝗔𝗬𝗕𝗘 𝗡𝗫 〲 ✦                       ║\n" +
+             "║                    ✦ 〲 𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁〲 ✦                       ║\n" +
              "╠════════════════════════════════════════════════════════════╣\n" +
              "%1\n" +
              "╠════════════════════════════════════════════════════════════╣\n" +
@@ -197,7 +197,7 @@ module.exports = {
      config.version || "2.0",
      roleText,
      config.countDown || 1,
-     config.author || "xalman",
+     config.author || "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁",
      usage.split("\n").map(line => `║  » ${line}`).join("\n"),
      doNotDelete
    );
