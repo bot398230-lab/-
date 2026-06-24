@@ -124,7 +124,7 @@ module.exports = {
 ┃ 📅 Date   : ${date}
 ┃ 👑 Owner  : ${owner}
 ┃ ⚡ Status : ONLINE
-╰━━━〔 ✨ Powered by Xalman 〕━━━╯`,
+╰━━━〔 ✨ Powered by 𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁 〕━━━╯`,
 			attachment: await getStreamFromURL(gif)
 		});
 	}
