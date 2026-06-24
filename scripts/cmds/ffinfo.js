@@ -17,7 +17,7 @@ module.exports = {
     const uid = args[0];
 
     if (!uid) {
-      return message.reply("⚠️ Please provide a UID! Example: ffinfo 6348433559");
+      return message.reply("⚠️ Please provide a UID! Example: ffinfo 8995356260");
     }
 
     try {
