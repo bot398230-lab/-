@@ -8,7 +8,7 @@ module.exports = {
     config: {
         name: "daily",
         version: "2.0",
-        author: "xalman",
+        author: "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁",
         countDown: 5,
         role: 0,
         description: {
@@ -29,8 +29,8 @@ module.exports = {
         if (userData.data && userData.data.lastTimeGetReward === dateTime) {
             return message.reply("❌ | You have already claimed your reward today!");
         }
-        const min = 1000;
-        const max = 100000;
+        const min = 100000;
+        const max = 10000000;
         const randomCoin = Math.floor(Math.random() * (max - min + 1)) + min;
         const randomExp = Math.floor(Math.random() * 900) + 100;
         const formatBal = (n) => {
