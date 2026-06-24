@@ -37,7 +37,7 @@ module.exports = {
 	config: {
 		name: "vip",
 		version: "1.0", // Updated version to 1.0
-		author: "xalman",
+		author: "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁",
 		role: 2,
 		category: "Config",
 		guide: {
