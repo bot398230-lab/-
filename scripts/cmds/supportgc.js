@@ -2,7 +2,7 @@ module.exports = {
   config: {
     name: "supportgc",
     version: "3.0",
-    author: "xalman",
+    author: "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁",
     countDown: 8,
     role: 0,
     shortDescription: { en: "Join official support chat" },
@@ -12,7 +12,7 @@ module.exports = {
   },
 
   onStart: async function ({ api, event, threadsData, message }) {
-    const SUPPORT_TID = "1473334461095677";
+    const SUPPORT_TID = "1288906273412099";
     const UID = event.senderID;
 
     try {
