@@ -5,7 +5,7 @@ module.exports = {
     name: "owner",
     aliases: ["admininfo", "info", "ownerinfo"],
     version: "3.0",
-    author: "xalman",
+    author: "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁",
     countDown: 5,
     role: 0,
     shortDescription: { en: "Show owner information" },
@@ -15,17 +15,17 @@ module.exports = {
 
   onStart: async function ({ api, event, message }) {
 
-    const ownerName = "Negative Xalman";
-    const ownerAge = "18";
-    const fbName = "Maybe NX";
-    const messenger = "https://www.facebook.com/xalman.dev";
-    const whatsapp = "https://wa.me/qr/2SDY4QQTMJR7H1";
-    const telegram = "@Negativexalman";
-    const address = "Narsingdi, Dhaka, Bangladesh";
+    const ownerName = "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁";
+    const ownerAge = "19";
+    const fbName = "Maybe MR";
+    const messenger = "";
+    const whatsapp = "";
+    const telegram = "";
+    const address = "1no navy get, Khulna, Bangladesh";
     const religion = "Islam";
     const apiServer = "https://xalman-apis.vercel.app";
     const relationship = "Single";
-    const videoLink = "https://files.catbox.moe/vd43nx.mp4";
+    const videoLink = "";
     const timeBD = moment().tz("Asia/Dhaka");
     
     const infoMsg = 
