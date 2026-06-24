@@ -6,7 +6,7 @@ module.exports = {
 		name: "admin",
 		aliases: ["operator"],
 		version: "2.1",
-		author: "xalman",
+		author: "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁",
 		countDown: 5,
 		role: 0,
 		shortDescription: { en: "Operator system" },
@@ -39,7 +39,7 @@ module.exports = {
 			case "add":
 			case "-a": {
 				if (senderID !== OWNER)
-					return message.reply("❌ | Only NX can add operator.");
+					return message.reply("❌ | Only MR can add operator.");
 
 				let uids = [];
 				if (event.type === "message_reply") {
@@ -88,7 +88,7 @@ module.exports = {
 			case "remove":
 			case "-r": {
 				if (senderID !== OWNER)
-					return message.reply("❌ | Only NX can remove operator.");
+					return message.reply("❌ | Only MR can remove operator.");
 
 				let uids = [];
 
@@ -145,7 +145,7 @@ module.exports = {
 
 				const ownerBox =
 `╭━━━〔 👑 OWNER 〕━━━╮
-│ Name : negative xalman (nx)
+│ Name : negative 𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁 (MR)
 │ UID  : ${OWNER}
 ╰━━━━━━━━━━━━━━━━━━━━╯`;
 
