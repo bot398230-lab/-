@@ -4,7 +4,7 @@ module.exports = {
     config: {
         name: "ai",
         version: "1.5.0",
-        author: "xalman",
+        author: "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁",
         countDown: 2,
         role: 0,
         shortDescription: "Chat with AI (Supports Reply)",
