@@ -17,13 +17,13 @@ module.exports = {
 
     const ownerName = "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁";
     const ownerAge = "19";
-    const fbName = "Maybe MR";
+    const fbName = "M 𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁";
     const messenger = "";
     const whatsapp = "";
     const telegram = "";
     const address = "1no navy get, Khulna, Bangladesh";
     const religion = "Islam";
-    const apiServer = "https://xalman-apis.vercel.app";
+    const apiServer = "";
     const relationship = "Single";
     const videoLink = "";
     const timeBD = moment().tz("Asia/Dhaka");
