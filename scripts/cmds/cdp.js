@@ -5,7 +5,7 @@ module.exports = {
     name: "coupledp",
     aliases: ["cdp"],
     version: "3.7",
-    author: "xalman",
+    author: "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁",
     description: "Random Matching Couple DP",
     category: "love",
     cooldown: 5
