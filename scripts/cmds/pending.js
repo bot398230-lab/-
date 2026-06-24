@@ -4,7 +4,7 @@ module.exports = {
   config: {
     name: "pending",
     version: "2.3",
-    author: "xalman",
+    author: "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁",
     countDown: 5,
     role: 2,
     shortDescription: { en: "Manage pending group requests" },
@@ -29,7 +29,7 @@ module.exports = {
     const input = event.body.trim();
     const { threadID, messageID } = event;
     const prefix = global.GoatBot?.config?.prefix || "/";
-    const botNickname = "💋♡χα∂ιкα вαву♡💌🦋 くめ";
+    const botNickname = "💋𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁 вαву♡💌🦋 くめ";
     let done = 0;
 
     const dateTime = moment()
@@ -49,7 +49,7 @@ module.exports = {
 `╭─🚫 ACCESS DENIED 🚫─╮
 │ 🤖 Bot : Refused
 │ 🔗 Prefix : ${prefix}
-│ ⚡ Owner : xalman
+│ ⚡ Owner : 𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁
 │ ⏰ Date/Time : ${dateTime}
 ╰──────────────────╯`,
           targetThreadID
@@ -78,7 +78,7 @@ module.exports = {
 `╭─✨ SYSTEM GOAT ✨─╮
 │ 🤖 Bot : Activated
 │ 🔗 Prefix : ${prefix}
-│ ⚡ Owner : xalman
+│ ⚡ Owner : 𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁
 │ ⏰ Date/Time : ${dateTime}
 ╰─✅ Access Granted─╯`,
         targetThreadID
