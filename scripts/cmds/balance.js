@@ -10,7 +10,7 @@ module.exports = {
         name: "balance",
         aliases: ["bal"],
         version: "5.0",
-        author: "xalman",
+        author: "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁",
         countDown: 2,
         role: 0,
         description: "View balance card, transfer money, and track 10-day history",
