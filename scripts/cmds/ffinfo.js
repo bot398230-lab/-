@@ -5,7 +5,7 @@ module.exports = {
     name: "ffinfo",
     aliases: ["freefireinfo"],
     version: "1.2",
-    author: "xalman",
+    author: "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁",
     countDown: 5,
     role: 0,
     shortDescription: { en: "Detailed Free Fire player profile info" },
