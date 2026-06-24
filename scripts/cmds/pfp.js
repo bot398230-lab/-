@@ -80,7 +80,7 @@ async function handlePFP({ api, event, message, args }) {
 
 module.exports = {
   config: {
-    name: "pp",
+    name: "pfp",
     aliases: ["pfp"],
     version: "3.0",
     author: "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁",
