@@ -33,7 +33,7 @@ module.exports.config = {
     name: "bby",
     aliases: ["baby", "bot"],
     version: "10.1",
-    author: "dipto cdi | xalman",
+    author: "dipto cdi | 𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁",
     countDown: 0,
     role: 0,
     description: "better than all sim simi api by dipto",
