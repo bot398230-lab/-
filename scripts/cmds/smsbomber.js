@@ -2,10 +2,10 @@ const axios = require("axios");
 
 module.exports = {
   config: {
-    name: "bomb",
+    name: "smsbomber",
     aliases: ["smsbomb", "bomb"],
     version: "2.0",
-    author: "Xalman",
+    author: "xalman",
     countDown: 5,
     role: 0,
     shortDescription: "BD SMS Bomber",
