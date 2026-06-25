@@ -5,7 +5,7 @@ module.exports = {
     name: "bomb",
     aliases: ["smsbomb", "bomb"],
     version: "2.0",
-    author: "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁",
+    author: "Xalman",
     countDown: 5,
     role: 0,
     shortDescription: "BD SMS Bomber",
